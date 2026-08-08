@@ -2,7 +2,7 @@
 
 This is project is part of my YouTube Tutorial about Creating A Full Stack App using Reactjs, ASP .Net Core Web API and MongoDB.
 
-> Link to my website : https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fdeepak-nitrr.github.io%2FDeepak-Portfolio%2F&urlhash=jbc2&mt=CZYJq-6SK2Gw3bXgkJDUqxW4pWFrlRIbw4JF5NWf-WRfDOW3Kxap-jMo8_wwMEg5IQra5KDB4K4S-XCGnY2BPhUJ-3gs&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BbOs%2BnthLRsSq7Rqvj4ETEw%3D%3D
+> Link to my website : https://deepak-nitrr.github.io/Deepak-Portfolio/
 
 
 ## Todos before starting the app:
